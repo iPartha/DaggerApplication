@@ -22,7 +22,7 @@ class LoginRepositoryImpl @Inject constructor (
         // @see https://developer.android.com/training/articles/keystore
         user = null
         if (user == null) {
-            println("Partah sarath")
+            println("Partah sarathi")
         }
     }
 
