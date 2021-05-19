@@ -23,6 +23,7 @@ class LoginRepositoryImpl @Inject constructor (
         user = null
         if (user == null) {
             println("Partah sarathi")
+            println("Partha")
         }
     }
 
