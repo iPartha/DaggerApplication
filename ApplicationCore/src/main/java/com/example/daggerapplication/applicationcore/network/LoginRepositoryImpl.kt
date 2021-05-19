@@ -20,7 +20,6 @@ class LoginRepositoryImpl @Inject constructor (
     init {
         // If user credentials will be cached in local storage, it is recommended it be encrypted
         // @see https://developer.android.com/training/articles/keystore
-        println("Partha")
         user = null
     }
 
