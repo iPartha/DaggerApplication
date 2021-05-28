@@ -2,5 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ApplicationSetup/src/main/java/com/example/daggerapplication/di/rest" vcs="Git" />
   </component>
 </project>

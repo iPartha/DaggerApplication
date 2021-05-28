@@ -15,7 +15,7 @@ import android.widget.ProgressBar
 import android.widget.Toast
 import com.example.daggerapplication.applicationcore.R
 import com.example.daggerapplication.applicationcore.common.ui.DaggerFragmentActivity
-import com.example.daggerapplication.applicationcore.home.HomeActivity
+import com.example.daggerapplication.applicationcore.home.ui.HomeActivity
 
 
 class StartupActivity : DaggerFragmentActivity() {

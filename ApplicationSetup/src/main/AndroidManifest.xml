@@ -21,6 +21,6 @@
         </activity>
 
         <activity
-            android:name=".applicationcore.home.HomeActivity" />
+            android:name=".applicationcore.home.ui.HomeActivity" />
     </application>
 </manifest>
