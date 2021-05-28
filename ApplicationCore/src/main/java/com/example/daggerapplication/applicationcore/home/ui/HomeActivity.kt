@@ -14,6 +14,7 @@ class HomeActivity : DaggerFragmentActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+        println("Partha Test")
         setContentView(R.layout.activity_home)
         homeViewModel.getHomeMenuData()
     }
